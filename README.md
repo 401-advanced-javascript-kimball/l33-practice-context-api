@@ -1,37 +1,43 @@
-# l33-practice-context-api
+# LAB - l33-practice-context-api
 
-remote: Resolving deltas: 100% (2/2), done.
-remote:
-remote: Create a pull request for 'submission' on GitHub by visiting:
-remote:      https://github.com/401-advanced-javascript-kimball/l33-practice-context-api/pull/new/submission
-remote:
-To github.com:401-advanced-javascript-kimball/l33-practice-context-api.git
- * [new branch]      submission -> submission
-Submission Link:
-https://github.com/401-advanced-javascript-kimball/l33-practice-context-api/blob/submission/README.md
+## Context API (Practice)
+
+### Author: Jonathan Kimball
+
+### Links and Resources
 
 * [submission PR](https://github.com/401-advanced-javascript-kimball/l33-practice-context-api/pull/1)
 * [travis](https://travis-ci.com/401-advanced-javascript-kimball/l33-practice-context-api)
-
-# LAB - 
-
-## Project Name
-
-### Author: Student/Group Name
-
-### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
 * [back-end](http://xyz.com) (when applicable)
 * [front-end](http://xyz.com) (when applicable)
 
-#### Documentation
-* [api docs](http://xyz.com) (API servers)
-* [jsdoc](http://xyz.com) (Server assignments)
-* [styleguide](http://xyz.com) (React assignments)
-
 ### Modules
-#### `modulename.js`
+
+#### `src/index.js`
+
+##### Exported Values and Methods
+
+#### `src/components/counter/counter.js`
+
+##### Exported Values and Methods
+
+#### `src/components/counter/counter-context.js`
+
+##### Exported Values and Methods
+
+#### `src/components/decrementer.js`
+
+##### Exported Values and Methods
+
+#### `src/components/incrementer.js`
+
+##### Exported Values and Methods
+
+#### `src/app.js`
+
+##### Exported Values and Methods
+
+
 ##### Exported Values and Methods
 
 ###### `foo(thing) -> string`
@@ -129,3 +135,12 @@ Refer to the the [lab submission instructions](../../../reference/submission-ins
 
 ----------
 
+<!-- 
+remote: Create a pull request for 'submission' on GitHub by visiting:
+remote:      https://github.com/401-advanced-javascript-kimball/l33-practice-context-api/pull/new/submission
+remote:
+To github.com:401-advanced-javascript-kimball/l33-practice-context-api.git
+ * [new branch]      submission -> submission
+Submission Link:
+https://github.com/401-advanced-javascript-kimball/l33-practice-context-api/blob/submission/README.md
+ -->
