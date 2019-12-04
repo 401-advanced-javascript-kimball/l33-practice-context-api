@@ -1,5 +1,15 @@
 # l33-practice-context-api
 
+remote: Resolving deltas: 100% (2/2), done.
+remote:
+remote: Create a pull request for 'submission' on GitHub by visiting:
+remote:      https://github.com/401-advanced-javascript-kimball/l33-practice-context-api/pull/new/submission
+remote:
+To github.com:401-advanced-javascript-kimball/l33-practice-context-api.git
+ * [new branch]      submission -> submission
+Submission Link:
+https://github.com/401-advanced-javascript-kimball/l33-practice-context-api/blob/submission/README.md
+
 * [submission PR](https://github.com/401-advanced-javascript-kimball/l33-practice-context-api/pull/1)
 * [travis](https://travis-ci.com/401-advanced-javascript-kimball/l33-practice-context-api)
 
