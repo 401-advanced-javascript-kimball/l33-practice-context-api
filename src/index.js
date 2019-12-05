@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 import App from './app.js';
-import CounterContext from './components/counter/counter-context.js';
+import CounterContextProvider from './components/counter/counter-context.js';
 
 /**
  * Main Component
@@ -19,9 +19,9 @@ class Main extends React.Component {
    */
   render() {
     return (
-      <CounterContext>
+      <CounterContextProvider>
         <App />
-      </CounterContext>
+      </CounterContextProvider>
     );
   }
 }
